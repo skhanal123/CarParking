@@ -1,0 +1,39 @@
+{
+    "rates": [
+    {
+    "days": "mon,tues,thurs",
+    "start_time": "0900",
+    "end_time":"2100",
+    "tz": "America/Chicago",
+    "price": 1500
+    },
+    {
+    "days": "fri,sat,sun",
+    "start_time": "0900",
+    "end_time":"2100",
+    "tz": "America/Chicago",
+    "price": 2000
+    },
+    {
+    "days": "wed",
+    "start_time": "0600",
+    "end_time":"1800",
+    "tz": "America/Chicago",
+    "price": 1750
+    },
+    {
+    "days": "mon,wed,sat",
+    "start_time": "0100",
+    "end_time":"0500",
+    "tz": "America/Chicago",
+    "price": 1000
+    },
+    {
+    "days": "sun,tues",
+    "start_time": "0100",
+    "end_time":"0700",
+    "tz": "America/Chicago",
+    "price": 925
+    }
+    ]
+    }
