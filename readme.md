@@ -1,5 +1,5 @@
-# Application Name: Spot
-Spot is built using Python (Django) for exposing API endpoints for price and rates
+# Application Name: Car Parking Spot Finder
+Spot is built using Python (Django) for exposing API endpoints for price and rates of car parking spots
 
 ## Installation
 The environment required for the application can be setup using requirement.txt file present in the project directory
