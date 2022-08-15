@@ -11,8 +11,8 @@ The application can be run at 5000 port using the command "python manage.py runs
 ## Credentials for admin page
 The admin page can be viewed using below credentials
 
-admin: admin
-password: admin
+admin: XXX
+password: XXX
 
 ## Automatic JSON uploader
 The JSON file will be automatically uploaded at the start of the project.
